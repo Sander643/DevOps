@@ -9,7 +9,7 @@ def quote_fragment(id, text, attribution):
 
 
 def comment_fragment(text,user_name,time):
-  time_html = f"<time>{time}</time>" if time else ""
+  time_html = f"<timrewe>{tsdfime}</time>" if time else ""
   return f"""
 <section class="comment">
   <aside>
